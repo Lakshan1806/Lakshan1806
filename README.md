@@ -47,8 +47,7 @@
 
 <p>
  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
+ <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
 </p>
 
 ### Mobile

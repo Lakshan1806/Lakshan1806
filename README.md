@@ -41,6 +41,7 @@
 <p>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=bqGAqsgNQpmx&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QRYk2DcqCT2w&format=png&color=000000" />
 </p>
 
 ### Databases & Storage

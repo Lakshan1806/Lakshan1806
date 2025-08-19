@@ -9,7 +9,7 @@
 
 * I build end‑to‑end web apps with a clean UI, and solid APIs.
 * Currently shipping a cab‑booking & car‑rental platform (**Urban Move**) on the MERN stack.
-* Exploring mobile with **React Native** (and some **Flutter** exposure).
+* Exploring mobile app development with **React Native** (and some **Flutter** exposure).
 
 > 📫 **Reach me:** [Email](mailto:lakshanuthayan@icloud.com) · [LinkedIn](https://www.linkedin.com/in/bavalakshanuthayakumar)
 

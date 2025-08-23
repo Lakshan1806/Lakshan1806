@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Lakshan1806&label=Profile%20views&color=ff7c1d&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Lakshan1806&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
 <h1 align="center">Hi there 👋, I'm Bavalakshan</h1>

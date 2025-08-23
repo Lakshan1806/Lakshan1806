@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=Lakshan1806&label=Profile%20views&color=ff7c1d&style=for-the-badge)
+
 <div align="center">
 <h1 align="center">Hi there 👋, I'm Bavalakshan</h1>
 <h3 align="center">Third-year IT undergraduate, University of Moratuwa • Full-stack & mobile developer</h3>

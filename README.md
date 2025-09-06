@@ -22,6 +22,7 @@
 ### Languages
 
 <p>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=YX2eDFImIaWh&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
@@ -51,11 +52,6 @@
 <p>
  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" />
  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
-</p>
-
-### Mobile
-
-<p>
 </p>
 
 ### Tools

@@ -60,6 +60,7 @@
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" />
 </p>

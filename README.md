@@ -26,30 +26,13 @@
 [![](https://skillicons.dev/icons?i=react,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend & APIs
-
-<p>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=bqGAqsgNQpmx&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=QRYk2DcqCT2w&format=png&color=000000" />
-</p>
+[![](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Databases & Storage
-
-<p>
- <img height="50" width="50" src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" />
- <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" />
-</p>
+[![](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Tools
-
-<p>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" />
-</p>
+[![](https://skillicons.dev/icons?i=vscode,git,postman,docker,figma,arduino)](https://skillicons.dev)
 
 ---
 

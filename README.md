@@ -23,14 +23,7 @@
 [![](https://skillicons.dev/icons?i=ts,js,java,c,cpp)](https://skillicons.dev)
 
 ### Frontend
-
-<p>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=4d9YPiN04osD&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=owWiEaAJmGKK&format=png&color=000000" />
-</p>
+[![](https://skillicons.dev/icons?i=react,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend & APIs
 

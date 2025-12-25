@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">Hi there 👋, I'm Bavalakshan</h1>
-<h3 align="center">Third-year IT undergraduate, University of Moratuwa • Full-stack & mobile developer</h3>
+<h3 align="center">Third-year IT undergraduate, University of Moratuwa</h3>
 </div>
 
 ---

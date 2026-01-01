@@ -26,13 +26,13 @@
 [![](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend & APIs
-[![](https://skillicons.dev/icons?i=nodejs,express,springboot)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Databases & Storage
 [![](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Tools
-[![](https://skillicons.dev/icons?i=vscode,git,postman,docker,figma,arduino)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode,idea,git,postman,docker,figma,arduino)](https://skillicons.dev)
 
 ---
 

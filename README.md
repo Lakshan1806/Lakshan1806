@@ -36,24 +36,6 @@
 
 ---
 
-## 🚖 Featured Project – Urban Move
-
-A full‑stack **cab booking & car rental** system.
-
-* **Stack:** React (Vite), Tailwind, PrimeReact · Node.js, Express.js, JWT · MongoDB & Mongoose
-* **Highlights:** role‑based auth, secure cookie sessions, booking & rental flows, admin dashboard with charts, branch‑wise returns, future ride reservations
-* **Status:** Web app in active development; mobile apps planned as a later release
-
----
-
-## 📌 Highlights
-
-* Built an **admin dashboard** end‑to‑end with protected routes and JWT‑based authentication.
-* Led module breakdown and **system design** for team projects; shipped features concurrently with clear ownership.
-* Microcontroller work with **Arduino (.ino/C++)** for an Automated French Fries Maker (small‑scale business use‑case).
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">

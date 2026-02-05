@@ -13,14 +13,14 @@
 * Currently shipping a cab‑booking & car‑rental platform (**Urban Move**) on the MERN stack.
 * Exploring mobile app development with **React Native** (and some **Flutter** exposure).
 
-> 📫 **Reach me:** [Email](mailto:lakshanuthayan@icloud.com) · [LinkedIn](https://www.linkedin.com/in/bavalakshanuthayakumar)
+> 📫 **Reach me:** [Email](mailto:lakshanuthayan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bavalakshanuthayakumar)
 
 ---
 
 ## 🧰 Tech Toolbox
 
 ### Languages
-[![](https://skillicons.dev/icons?i=ts,js,java,c,cpp)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,js,java,python,c,cpp)](https://skillicons.dev)
 
 ### Frontend
 [![](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css)](https://skillicons.dev)

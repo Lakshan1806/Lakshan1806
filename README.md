@@ -26,7 +26,7 @@
 [![](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend & APIs
-[![](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)](https://skillicons.dev)
 
 ### Databases & Storage
 [![](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)

@@ -47,5 +47,4 @@
 
 ## 🤝 Open to
 
-* Software Engineer Intern roles (full‑stack)
-* Collaborations on open‑source MERN projects
+* Software Engineer Intern roles

@@ -27,8 +27,8 @@
 ### Backend & APIs
 [![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)](https://skillicons.dev)
 
-### Databases & Storage
-[![](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+### Databases & Services
+[![](https://skillicons.dev/icons?i=mongodb,mysql,supabase)](https://skillicons.dev)
 
 ### Tools
 [![](https://skillicons.dev/icons?i=vscode,idea,git,postman,docker,figma,arduino)](https://skillicons.dev)

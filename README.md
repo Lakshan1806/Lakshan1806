@@ -22,7 +22,7 @@
 [![](https://skillicons.dev/icons?i=ts,js,java,python,c,cpp)](https://skillicons.dev)
 
 ### Frontend
-[![](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend & APIs
 [![](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)](https://skillicons.dev)
